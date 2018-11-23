@@ -1,2 +1,2 @@
 # multi-view-geometry
-playing around with Hartley &amp; Zisserman
+messing around with Hartley &amp; Zisserman
